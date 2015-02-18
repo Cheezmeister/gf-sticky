@@ -1,3 +1,5 @@
+Originally prepared for http://www.gamefaqs.com/boards/210-game-design-and-programming
+
 ## Intro
 
 You're actually reading the sticky!? We're off to a good start already!
@@ -12,7 +14,7 @@ If you’re new to programming, before creating a "help me get started" topic, p
 * http://sloperama.com/advice.html
 * http://www.codecademy.com/ (Yeah, I just did that)
 
-All of these links get dropped in every general beginner’s topic, and they're excellent resources. If you don’t take the time to check this great stuff out before posting, you’re probably not cut out for programming, because if you want to succeed with it, you’ll need to be willing to do things for yourself, and to devote a lot, and I mean A LOT, of time to developing your skills.
+All of these links get dropped in every general beginner’s topic, and they're excellent resources. If you don’t take the time to check this great stuff out before posting, programming may not be for you, because if you want to succeed with it, you’ll need to be willing to do things for yourself, and to devote a lot, and I mean A LOT, of time to developing your skills.
 
 Great, you now know what’s ahead of you. To business.
 
@@ -20,7 +22,7 @@ Great, you now know what’s ahead of you. To business.
 
 #### Q: What language should I learn first?
 A: The short answer: Python.
-The right answer: There are many opinions on what to start with, and each is valid. You’ll get "C++ because you might as well start with what you’ll the game industry uses"; "C because it teaches you what goes on at the lower levels and will help you code more efficiently later"; "Java because it handles mundane stuff like garbage collection for you"; And so on. What’s important is learning the concepts, not the languages, of programming. Generally speaking, barring joke languages like brain****, you’ll get the same result no matter where you start.
+The right answer: There are many opinions on what to start with, and each is valid. You’ll get "C++ because you might as well start with what you’ll the game industry uses"; "C because it teaches you what goes on at the lower levels and will help you code more efficiently later"; "Java because it handles mundane stuff like garbage collection for you"; And so on. What’s important is learning the concepts, not the languages, of programming. Generally speaking, barring joke languages like [brainfuck](https://en.wikipedia.org/wiki/Brainfuck), you’ll get the same result no matter where you start.
 
 #### Q: How do I <verb> a <noun> in <language> using <tool>?
 A: Navigate to Google (or, if you're a total pro, DuckDuckGo). Type in <language> <tool> <verb> <noun>. Omit punctuations and prepositions, because honestly, who needs those? Profit!
@@ -32,7 +34,7 @@ A: No, not really, but how about helping me program mine? (No really, you should
 A: If all you want to do is design, you have a few options. It’s possible, though unlikely, that you can find somebody who is willing and able to code, who will work with you (see previous question). Programs such as GameMaker, RPG Maker etc. offer a relatively code-free way to create a wide variety of games. Unity and Flashpunk are "some code required" and have become popular among non-programmer indies in recent years. Alternatively, you could find an existing game that’s well-suited to modding, such as Half-Life 2 or Starcraft 2. But the best way to truly have full control over what happens is to program your game from scratch.
 
 #### Q: What’s a good game design college?
-The general consensus is that it’s not a good idea to attend an "exclusive" school like DigiPen or Full Sail, mainly because they don’t leave much room for a backup plan if game design doesn’t work out for you--which is extremely possible given the fickle nature of the game industry. That being said, certain schools including DigiPen have proven themselves to be viable choices for highly talented students with a "game industry or bust" mentality. Other universities, e.g. RIT, RPI, have jumped on the bandwagon and offered game development curricula alongside the traditional fare--this is a good way to hedge your bets wiht a GD program. We still feel it’s better to major in a broader subject that holds your interest, such as Computer Science in the case of programming, and to develop a portfolio of games on your own time. You will actually look better to employers if you programmed your own work because you wanted to, not for homework; and a background in CompSci lends itself to a host of other options in case you lose interest, or fail to make it, in game development. Also (speaking from experience) it pays more :)
+The general consensus is that it’s not a good idea to attend an "exclusive" school like DigiPen or Full Sail, mainly because they don’t leave much room for a backup plan if game design doesn’t work out for you--which is extremely possible given the fickle nature of the game industry. That being said, certain schools including DigiPen have proven themselves to be viable choices for highly talented students with a "game industry or bust" mentality. Other universities, e.g. RIT, RPI, have jumped on the bandwagon and offered game development curricula alongside the traditional fare--this is a good way to hedge your bets with a GD program. If you're not sure, it's safer to major in a broader subject that holds your interest, such as Computer Science in the case of programming, and to develop a portfolio of games on your own time. You will actually look better to employers if you programmed your own work because you wanted to, not for homework; and a background in CompSci lends itself to a host of other options in case you lose interest, or fail to make it, in game development. Also, speaking from experience, it pays more :)
 
 #### Q: Where can I get a compiler/interpreter/IDE for xxx language?
 A: There are plenty of free tools out there. Use Google & Wikipedia to determine which one is right for you. We’ll tell you which ones we use if you must ask, but the "best" one is just as nonexistent as the "best" beginner’s language. 
@@ -77,15 +79,16 @@ A: If Google isn’t playing nice but you know what you’re looking for, we hav
  * http://openglbook.com/
  * http://msdn.microsoft.com/en-us/centrum-xna.aspx
  * http://www.directxtutorial.com/
+ * http://www.rastertek.com/tutindex.html
 
-* Game Development
+* Game Dev Communities
  * http://tigsource.com
  * http://www.gamedev.net/page/index.html
  * http://www.igda.org/
  * http://flixel.org/
  * http://unity3d.com/
  * http://www.riemers.net
- * http://www.rastertek.com/tutindex.html
+ * http://www.reddit.com/r/gamedev
  
 * Free Content
  * http://opengameart.org/
@@ -104,11 +107,15 @@ C++ is, essentially, C with a huge amount of nifty features thrown in. Easy to l
 
 __Java__
 
-Perhaps one of the three most common high-level programming languages in use today. "Write once, run everywhere", as they say. Java is the English to C's Latin--it's a little weird, but almost everybody speaks it, and it continues to be quite popular for general-purpose and business software.  It  isn't particularly well-suited to games, but that didn't stop Minecraft from becoming a hit, making its creator a millionaire.
+Perhaps one of the three most common high-level programming languages in use today. "Write once, run everywhere", as they say. Java is the English to C's Latin--it's a little weird, but almost everybody speaks it, and it continues to be quite popular for general-purpose, business, and enterprise software.  It  isn't particularly well-suited to games, but that didn't stop it from powering Minecraft, one of the most popular (and profitable) games [of all time](https://en.wikipedia.org/wiki/List_of_best-selling_video_games).
 
 __JavaScript__
 
 Don't let the name fool you. JS is completely unrelated to Java, and is better described as [Scheme](http://en.wikipedia.org/wiki/Scheme_(programming_language) ) pretending to be C. It has become the de facto standard in web programming and has found some support among game devs, despite being generally too slow to power more complex games. With the advent of HTML5, it just might be the next wave in online games.
+
+__Haxe__
+
+Vaguely similar to JS, Haxe is a relatively young but quite promising language that compiles down to (among other things) Flash, HTML5, **and** native code. Woah!
 
 __Python__
 
