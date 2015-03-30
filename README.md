@@ -24,8 +24,8 @@ Great, you now know what’s ahead of you. To business.
 A: The short answer: Python.
 The right answer: There are many opinions on what to start with, and each is valid. You’ll get "C++ because you might as well start with what you’ll the game industry uses"; "C because it teaches you what goes on at the lower levels and will help you code more efficiently later"; "Java because it handles mundane stuff like garbage collection for you"; And so on. What’s important is learning the concepts, not the languages, of programming. Generally speaking, barring joke languages like [brainfuck](https://en.wikipedia.org/wiki/Brainfuck), you’ll get the same result no matter where you start.
 
-#### Q: How do I <verb> a <noun> in <language> using <tool>?
-A: Navigate to Google (or, if you're a total pro, DuckDuckGo). Type in <language> <tool> <verb> <noun>. Omit punctuations and prepositions, because honestly, who needs those? Profit!
+#### Q: How do I [verb] a [noun] in [language] using [tool]?
+A: Navigate to Google (or, if you're a total pro, DuckDuckGo). Type in [language] [tool] [verb] [noun]. Omit punctuations and prepositions, because honestly, who needs those? Profit!
 
 #### Q: Does anyone want to help program this game?
 A: No, not really, but how about helping me program mine? (No really, you should seriously consider joining someone else's team). If you have a problem and want help, post your troubles here. We are generally willing to help you look for bugs and give advice on design. However, we will not "work" for you. Do not expect us to join your team. Believe it or not, we all have our own projects we’re working on, in addition to school and/or work. Some of us are professionals who are paid for their work, so if you’re not offering money, don’t expect help. If we want to code for a stranger for free, we’ll ask. :)
